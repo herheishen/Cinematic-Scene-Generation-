@@ -1,0 +1,5 @@
+{
+  "name": "CineStudio AI",
+  "description": "A cinematic creation suite using Veo 3.1 for video animation and Gemini 3 Pro (Nano Banana Pro) for high-fidelity image generation.",
+  "requestFramePermissions": []
+}
